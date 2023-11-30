@@ -1,38 +1,3 @@
-
-# Fraud Detection using Quantum Machine Learning
-
-
-
-## Credit Card Fraud Detection
-
-The first notebook focuses on detecting fraudulent activities in credit card transactions using Quantum Machine Learning. It utilizes quantum algorithms to process and analyze the transaction data, providing a more robust and secure solution compared to classical methods.
-
-
-
-
-
-## Stock Fraud Detection
-
-The second notebook addresses fraud detection in stock trading using Quantum Machine Learning. By employing quantum algorithms, the notebook enhances the detection capabilities for fraudulent stock activities, providing insights into potentially malicious trading behaviors.
-
-### Dependencies
-
-- [Qiskit](https://qiskit.org/)
-- [NumPy](https://numpy.org/)
-- [Pandas](https://pandas.pydata.org/)
-- [Matplotlib](https://matplotlib.org/)
-
-### Instructions
-
-1. Install the required dependencies using the following command:
-   ```bash
-   pip install qiskit numpy pandas matplotlib
-   ```
-
-2. Open and run the [Stock_Fraud_Detection.ipynb](Stock_Fraud_Detection.ipynb) notebook in a Jupyter environment.
-
-3. Follow the instructions within the notebook to execute the quantum fraud detection algorithm on the provided stock trading dataset.
-
 # Quantum Fraud Detection
 
 ## Overview
