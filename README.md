@@ -2,7 +2,7 @@
 
 ## Overview
 
-This GitHub repository contains two Jupyter notebooks that demonstrate the application of Quantum Machine Learning (QML) in fraud detection for credit card transactions and stock trading. The notebooks leverage the power of quantum computing to enhance the accuracy and efficiency of fraud detection algorithms.
+This GitHub repository contains two Jupyter notebooks that demonstrate the application of Quantum Machine Learning (QML) in fraud detection for credit card transactions and stock market. The notebooks leverage the power of quantum computing to enhance the accuracy and efficiency of fraud detection algorithms.
 
 ## Contents
 
