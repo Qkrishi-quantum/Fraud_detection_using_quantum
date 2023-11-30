@@ -9,7 +9,6 @@ This GitHub repository contains two Jupyter notebooks that demonstrate the appli
 1. [Credit Card Fraud Detection](Credit_Card_Fraud_Detection.ipynb)
 2. [Stock Fraud Detection](Stock_Fraud_Detection.ipynb)
 
-
 ## Credit Card Fraud Detection
 
 ### Purpose
@@ -50,7 +49,9 @@ Our method achieves a remarkable accuracy of 96% on the [Kaggle credit card frau
 
 2. Open and run the [Credit_Card_Fraud_Detection.ipynb](Credit_Card_Fraud_Detection.ipynb) notebook in a Jupyter environment.
 
-3. Follow the instructions within the notebook to execute the quantum fraud detection algorithm on the provided credit card transaction dataset.## Stock Fraud Detection
+3. Follow the instructions within the notebook to execute the quantum fraud detection algorithm on the provided credit card transaction dataset.
+
+## Stock Fraud Detection
 
 ### Purpose
 
