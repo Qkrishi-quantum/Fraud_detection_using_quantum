@@ -79,24 +79,5 @@ The stock trading dataset, sourced from [Example Stock Dataset](https://examples
 
 2. Open and run the [Stock_Fraud_Detection.ipynb](Stock_Fraud_Detection.ipynb) notebook in a Jupyter environment.
 
-3. Follow the instructions within the notebook to execute the quantum fraud detection algorithm on the provided stock trading dataset.### Next Steps in QFraudGuard Implementation
-
-Partnering with Qkrishi, a startup merging quantum-AI computing prowess with Canara Bank's domain expertise, our proposed steps for collaboration include:
-
-1. **Data Integration**: Access a representative dataset from Canara Bank to test the capabilities of the existing quantum technology framework.
-
-2. **Domain Expertise Collaboration**: Organize joint workshops to foster mutual learning between Qkrishi's quantum experts and Canara Bank’s domain experts.
-
-3. **Prototype Development**: Based on insights from workshops, develop an initial prototype of the QFraudGuard system tailored to Canara Bank’s needs.
-
-4. **Feedback and Iteration**: Deploy the prototype, gather feedback, and refine the system for optimal performance.
-
-5. **Stakeholder Engagement**: Engage regulatory bodies to ensure compliance with industry standards and gather diverse perspectives.
-
-6. **Final Implementation and Training**: Implement the solution within Canara Bank's infrastructure, providing comprehensive training.
-
-7. **Review and Continuous Improvement**: Periodically review and update the system, exploring opportunities for deeper integration and expansion.
-
-8. **Long-Term Partnership Exploration**: Discuss potential collaborations, research, and development beyond the initial solution.
-
+3. Follow the instructions within the notebook to execute the quantum fraud detection algorithm on the provided stock trading dataset.  
 
