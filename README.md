@@ -12,7 +12,9 @@ This GitHub repository contains two Jupyter notebooks that demonstrate the appli
 
 ### Purpose
 
-The primary goal is to advance fraud detection using QML, introducing techniques applicable not only to credit card fraud but also to domains like Anti Money Laundering, Escrow Fraud Detection, Loan Fraud Detection, and Transaction Fraud Detection.
+The primary goal is to advance fraud detection in credit card transactions using QML. 
+
+These techniques applicable are not only applicable to credit card fraud but also to different domains like Anti Money Laundering, Escrow Fraud Detection, Loan Fraud Detection, and Transaction Fraud Detection.
 
 ### Method and Results
 
