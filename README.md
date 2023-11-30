@@ -6,8 +6,8 @@ This GitHub repository contains two Jupyter notebooks that demonstrate the appli
 
 ## Contents
 
-1. [Credit Card Fraud Detection](Quantum Fraud detection on credit card data.ipynb)
-2. [Stock Fraud Detection](Quantum Fraud detection on stocks.ipynb)
+1. [Credit Card Fraud Detection](QuantumFraudDetectiononCreditCardData.ipynb)
+2. [Stock Fraud Detection](QuantumFraudDetectiononStocks.ipynb)
 
 ## Credit Card Fraud Detection
 
@@ -47,7 +47,7 @@ Our method achieves a remarkable accuracy of 96% on the [Kaggle credit card frau
    pip install qiskit numpy pandas matplotlib
    ```
 
-2. Open and run the [Quantum Fraud detection on credit.ipynb](Credit_Card_Fraud_Detection.ipynb) notebook in a Jupyter environment.
+2. Open and run the [Quantum Fraud detection on credit.ipynb](QuantumFraudDetectiononCreditCardData.ipynb) notebook in a Jupyter environment.
 
 3. Follow the instructions within the notebook to execute the quantum fraud detection algorithm on the provided credit card transaction dataset.
 
@@ -80,7 +80,7 @@ The stock trading dataset, sourced from [Example Stock Dataset](https://examples
    pip install qiskit numpy pandas matplotlib
    ```
 
-2. Open and run the [Quantum Fraud detection on stocks.ipynb](Stock_Fraud_Detection.ipynb) notebook in a Jupyter environment.
+2. Open and run the [Quantum Fraud detection on stocks.ipynb](QuantumFraudDetectiononStocks.ipynb) notebook in a Jupyter environment.
 
 3. Follow the instructions within the notebook to execute the quantum fraud detection algorithm on the provided stock trading dataset.  
 
