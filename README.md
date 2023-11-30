@@ -31,7 +31,7 @@ The credit card transaction dataset, obtained from [Kaggle](https://www.kaggle.c
 
 #### 95+% Accuracy Obtained
 
-Our method achieves a remarkable accuracy of 96% on the [Kaggle credit card fraud dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud), with a primary focus on maximizing recall for fraudulent transactions.
+Our method achieves a remarkable accuracy of 96% on the [Kaggle dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud), with a primary focus on maximizing recall for fraudulent transactions.
 
 ### Dependencies
 
