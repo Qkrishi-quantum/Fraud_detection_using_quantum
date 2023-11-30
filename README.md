@@ -63,9 +63,6 @@ Similar to credit card fraud detection, the goal is to apply quantum machine lea
 
 The stock trading dataset, sourced from [Kaggle website](https://www.kaggle.com/datasets/neeoon/flcs-stock-market-transaction-2021-2022?select=flc_2013_2022_notime.csv), is processed and the Quantum Machine Learning model is then trained which achieves a recall of 1 on the test data. 
 
-1. **Improved Accuracy and Efficiency**: Quantum machine learning methodologies significantly improve the accuracy and efficiency of fraud detection in stock trading.
-
-2. **Wide Applicability**: While demonstrated on a stock trading dataset, the techniques are equally relevant to various financial fraud detection scenarios.
 
 ### Dependencies
 
