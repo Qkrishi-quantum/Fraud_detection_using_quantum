@@ -61,7 +61,7 @@ Similar to credit card fraud detection, the goal is to apply quantum machine lea
 
 #### Dataset and Data Preprocessing
 
-The stock trading dataset, sourced from [Kaggle Dataset]([https://examplestockdataset.com](https://www.kaggle.com/datasets/neeoon/flcs-stock-market-transaction-2021-2022?select=flc_2013_2022_notime.csv)), is processed using quantum algorithms, offering advantages such as increased resilience to adversarial attacks and improved feature selection.
+The stock trading dataset, sourced from [Kaggle Dataset](https://www.kaggle.com/datasets/neeoon/flcs-stock-market-transaction-2021-2022?select=flc_2013_2022_notime.csv), is processed using quantum algorithms, offering advantages such as increased resilience to adversarial attacks and improved feature selection.
 
 1. **Improved Accuracy and Efficiency**: Quantum machine learning methodologies significantly improve the accuracy and efficiency of fraud detection in stock trading.
 
