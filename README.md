@@ -6,8 +6,8 @@ This GitHub repository contains two Jupyter notebooks that demonstrate the appli
 
 ## Contents
 
-1. [Credit Card Fraud Detection](Credit_Card_Fraud_Detection.ipynb)
-2. [Stock Fraud Detection](Stock_Fraud_Detection.ipynb)
+1. [Credit Card Fraud Detection](Quantum Fraud detection on credit card data.ipynb)
+2. [Stock Fraud Detection](Quantum Fraud detection on stocks.ipynb)
 
 ## Credit Card Fraud Detection
 
